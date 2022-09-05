@@ -187,7 +187,7 @@ footer span {
 	font-size: 0.875em;
 }
 
-@media (min-width: 768px) {
+@media all and (min-width: 768px) {
 	
 .top-section, 
 .bottom-section {
@@ -227,7 +227,7 @@ footer span {
 
 }
 
-@media (min-width: 1200px) {
+@media all and (min-width: 1200px) {
 
 	.container {
 		max-width: 1200px;
